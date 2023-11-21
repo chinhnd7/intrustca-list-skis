@@ -1,4 +1,4 @@
-package com.example;
+package com.example.list_skis;
 
 import org.apache.pdfbox.pdmodel.PDDocument;
 import org.apache.pdfbox.pdmodel.interactive.digitalsignature.PDSignature;

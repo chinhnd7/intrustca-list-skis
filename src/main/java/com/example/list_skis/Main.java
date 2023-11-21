@@ -1,4 +1,4 @@
-package com.example;
+package com.example.list_skis;
 
 import java.util.List;
 
